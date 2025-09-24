@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="1a5cdcbb83043210d5d9e270ceaad3b2" label="PhantomTroupe" max_length="40" name="x_1604513_phantom_phantomtroupe" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Event Name" max_length="40" name="event_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="100" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Date time" max_length="40" name="date_time" type="glide_date_time"/>
+    </element>
+</database>
